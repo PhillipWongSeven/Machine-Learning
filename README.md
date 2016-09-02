@@ -8,3 +8,4 @@ You should use the `strong` tag.
 ...which makes much more sense than `You should use the strong tag`
 
 ## This is an h2.
+### This is an h3.
