@@ -6,6 +6,12 @@ These are Machine Learning Notes divided by sections/topics.
 ## Section
  - [Data](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Data)
  - [Mathplotlib](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Matplotlib)
+ - [Model Evaluation and Validation](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Model%20Evaluation%20and%20Validation)
+ - [Numpy](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Numpy)
+ - [Pandas](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Pandas)
+ - [Sklearn](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Sklearn)
+ - [Supervised Learning](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Supervised%20Learning)
+ - [Unsupervised Learning](https://github.com/PhillipWongSeven/Machine-Learning/tree/master/Unsupervised%20Learning)
 
 ## System Requirement
 - Jupyter Notebook/Ipython Notebook 4.1.2 
